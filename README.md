@@ -7,7 +7,7 @@
 ## 2. Covid-19 Vaccines
 ### Vaccine data is acquired using url from a [Github](https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv) page.
 
-## 3. Coutries Indicators 
+## 3. Countries Indicators 
 ### 3.1 Human Development Index
 ### The [downloaded](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) newest HDI is from 2021. On the [first](https://github.com/andreluizcoelho/Covid-19-Project/blob/main/covid19project_andreluizcoelho.ipynb) original final project the newest HDI was from 2019. So, some details in the code had to change.
 ### The [ISO](https://www.iso.org/standards.html) from each country is generated in this section
