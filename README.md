@@ -2,3 +2,9 @@
 
 ## 1. Webscraping 
 ### The Covid-19 data is initially webscraped with information such as Total Cases and Death Cases. 
+
+
+## 2. Covid-19 Vaccines
+### Vaccine data is acquired using url from a [Github](https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv) page.
+
+## 3.
