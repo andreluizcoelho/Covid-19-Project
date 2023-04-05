@@ -9,4 +9,4 @@
 
 ## 3. Coutries Indicators 
 ### 3.1 Human Development Index
-### The HDI downloaded was the newest, 2021. On the "covid19project_andreluizcoelho.ipynb" the newest was from 2019. 
+### The HDI downloaded was the newest, 2021. On the "covid19project_andreluizcoelho.ipynb" the newest was from 2019. So, some details in the code had to change.
