@@ -9,5 +9,5 @@
 
 ## 3. Coutries Indicators 
 ### 3.1 Human Development Index
-### The HDI [downloaded](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) was the newest, 2021. On the "covid19project_andreluizcoelho.ipynb" the newest was from 2019. So, some details in the code had to change.
+### The [downloaded](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) newest HDI is from 2021. On the "covid19project_andreluizcoelho.ipynb" the newest was from 2019. So, some details in the code had to change.
 ### The [ISO](https://www.iso.org/standards.html) from each country is generated in this section
