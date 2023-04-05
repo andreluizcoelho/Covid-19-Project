@@ -7,4 +7,6 @@
 ## 2. Covid-19 Vaccines
 ### Vaccine data is acquired using url from a [Github](https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv) page.
 
-## 3.
+## 3. Coutries Indicators 
+### 3.1 Human Development Index
+### The HDI downloaded was the newest, 2021. On the "covid19project_andreluizcoelho.ipynb" the newest was from 2019. 
