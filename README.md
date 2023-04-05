@@ -1,1 +1,1 @@
-## This repo is for a project I did for a course during the Ph.D. in Economics at PIMES/UFPE, Recife, Brazil. The project was turned in the end of July 2021. Since it turned out to be long. I will break it down into small parts. 
+### This repository contains a project I completed as part of my Ph.D. in Economics coursework at PIMES/UFPE in Recife, Brazil. The project was submitted at the end of July 2021 and is quite lengthy. Therefore, I have decided to break it down into smaller parts.
