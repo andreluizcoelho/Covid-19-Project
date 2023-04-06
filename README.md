@@ -12,6 +12,6 @@
 ### The [downloaded](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) newest HDI is from 2021. On the [first](https://github.com/andreluizcoelho/Covid-19-Project/blob/main/covid19project_andreluizcoelho.ipynb) original final project the newest HDI was from 2019. So, some details in the code had to change.
 ### The [ISO](https://www.iso.org/standards.html) from each country is generated in this section
 ## 3.2 World Bank Data
-### 3.2.1 GDP per capita
+### 3.2.1 Grouwth Domestic Product(GDP per capita)
 ### The GDP per capita data can be downloaded [here](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD), and for direct [download](https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=excel)
 ### GDP per capita is also for 2021, where in the original final project it was from 2019. 
