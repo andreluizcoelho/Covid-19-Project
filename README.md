@@ -14,3 +14,4 @@
 ## 3.2 World Bank Data
 ### 3.2.1 GDP per capita
 ### The GDP per capita data can be downloaded [here](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD), and for direct [download](https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=excel)
+### GDP per capita is also for 2021, where in the original final project it was from 2019. 
