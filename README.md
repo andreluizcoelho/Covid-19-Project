@@ -21,3 +21,9 @@
 ### 3.2.3 Unemployment Rate 
 ### The Unemployment Rate data can be downloaded [here](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS), and for direct [download](https://api.worldbank.org/v2/en/indicator/SL.UEM.TOTL.ZS?downloadformat=excel)
 ### The Unemployment data is for 2021, where in the original final project it was from 2020.
+### 3.2.4 Inflation Rate 
+### The Inflation Rate data can be downloaded [here](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG), and for direct [download](https://api.worldbank.org/v2/en/indicator/FP.CPI.TOTL.ZG?downloadformat=excel)
+### The Inflation data is for 2021, where in the original final project it was from 2019.
+### 3.2.5 GDP Growth (Annual %) 
+### The GDP growth data can be downloaded [here](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG), for direct [download](https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.KD.ZG?downloadformat=excel)
+### The GDP Growth data is for 2021, where in the original final project it was from 2019.
