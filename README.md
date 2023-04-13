@@ -31,5 +31,9 @@
 #### Merging World Indicators Data (World Bank (GDP, GDP per capita, GDP growth, unemployment rate, inflation rate) & United Nations (HDI)) with Covid Vaccines and then with Covid Cases/Deaths
 ### 4.1 Merging World Bank Data (GDP, GDP per capita, GDP growth, unemployment rate, inflation rate)
 #### 4.1.1 Merging GDP with GDP per capita
-
-
+#### 4.1.2 Merging GDP growth with gdppercapitagdp (the merge between GDP with GDP per capita)
+#### 4.1.3 Merging between Unemployment rate and Inflation Rate
+#### 4.1.4 Merging between GDPs (gdp, gdp per capita and gdp growth) with unemploymentinflationrate (unemployment rate and inflation rate)
+### 4.2 Merging World Bank Data (GDP, GDP per capita, GDP growth, unemployment rate, inflation rate) & United Nations (HDI)
+### 4.3 Merging Economic Indicator (World Bank Data with United Nations (HDI)) with Covid Vaccines
+### 4.4 Merging the (Economic Indicators and Covid Vaccines) with Covid Cases/Deaths
