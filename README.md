@@ -38,7 +38,7 @@
 ### 4.3 Merging Economic Indicator (World Bank Data with United Nations (HDI)) with Covid Vaccines
 ### 4.4 Merging the (Economic Indicators and Covid Vaccines) with Covid Cases/Deaths
 ## 5. Data Visualization
-### OBS: Unfortunately, the graphs from Plotly are not rendered on the GitHub page when the ipynb file is opened. While many of these graphs are interactive, only a static image with the 'svg()' code is displayed. Without this code, nothing will appear when opening the ipynb file. To experience the full interactivity of the Plotly graphs, please run the code on your own machine without the 'svg()' code. That's why there are two versions uploaded for Part 5 - '5. Data Visualization' which is interactive and '5. Data Visualization Static' which can be displayed on the GitHub page.
+### OBS: Unfortunately, the graphs from Plotly are not rendered on the GitHub page when the ipynb file is opened. While many of these graphs are interactive, only a static image with the 'fig.show('svg')' code is displayed. Without this code, nothing will appear when opening the ipynb file. To experience the full interactivity of the Plotly graphs, please run the code on your own machine without the 'fig.show('svg')' code. That's why there are two versions uploaded for Part 5 - '5. Data Visualization' which is interactive and '5. Data Visualization Static' which can be displayed on the GitHub page.
 ### 5.1 Mapping
 #### 5.1.1 Globe
 #### 5.1.2 World Map
