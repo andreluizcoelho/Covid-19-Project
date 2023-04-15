@@ -38,3 +38,24 @@
 ### 4.3 Merging Economic Indicator (World Bank Data with United Nations (HDI)) with Covid Vaccines
 ### 4.4 Merging the (Economic Indicators and Covid Vaccines) with Covid Cases/Deaths
 ## 5. Data Visualization
+### 5.1 Mapping
+#### 5.1.1 Globe
+#### 5.1.2 World Map
+### 5.2 Graphs
+#### 5.2.1 Scatter Plots
+#### 5.2.2 Bar Graphs
+#### 5.2.3 Pie Chart
+#### 5.2.4 Tree Map
+#### 5.2.5 Trendline
+### 5.3 Maps with Shapefiles
+#### obs: There are two very common ways to work with map plotting:
+#### 1.From latitude and longitude finding a point to plot over the shapefile OR 2.Merging the shapefile with the data, not plotting the point over it
+#### 5.3.1 From latitude and longitude finding a point to plot over the shapefile
+#### 5.3.2 Merging the shapefile with the data, not plotting the point over it
+### 5.4 More Maps, Bubble Chart and Boxplot with Plotly
+## 6. Statistics
+## 7. Econometrics
+## 8. Spatial Econometrics
+## 9. Machine Learning
+
+
