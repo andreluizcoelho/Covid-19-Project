@@ -80,5 +80,5 @@
 ### 8.3 Local Autocorrelation: Hot Spots, Cold Spots, and Spatial Outliers
 ## 9. Machine Learning
 ### 9.1 Support Vector Classifier (SVC)
-### 9.2 Logistic Regression, Decision Tree and Random Forest
-#### 9.2.1 Decision Tree Classifier Accuracy
+### 9.2 Decision Tree, Random Forest and Logistic Regression
+#### 9.2.1 Logistic Regression Classifier Accuracy
