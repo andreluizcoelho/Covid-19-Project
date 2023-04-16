@@ -71,7 +71,13 @@
 ### 7.8 Logit Regression
 ### 7.9 Quantile Regression
 ## 8. Spatial Econometrics
-
+### 8.1 Spatial Autocorrelation
+#### 8.1.1 Spatial Similarity
+#### 8.1.2 Attribute Similarity
+### 8.2 Global Spatial Autocorrelation
+#### 8.2.1 Join Counts
+#### 8.2.2 Continous Case
+### 8.3 Local Autocorrelation: Hot Spots, Cold Spots, and Spatial Outliers
 ## 9. Machine Learning
 
 
