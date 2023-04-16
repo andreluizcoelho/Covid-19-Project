@@ -65,7 +65,11 @@
 #### 7.3.2 Hausman Test
 ### 7.4 The OLS parameter 𝛽 estimated using matrix algebra and numpy
 ### 7.5 Regression Discontinuity Design (RDD)
-### 7.6 Difference-in-Difference
+### 7.6 Difference-in-Difference (Dif-in-Dif)
+### 7.7 More OLS 
+#### 7.7.1 Robust Linear Regression
+### 7.8 Binary Regression Logit and Probit 
+
 ## 8. Spatial Econometrics
 ## 9. Machine Learning
 
