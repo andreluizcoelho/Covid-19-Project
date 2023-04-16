@@ -56,6 +56,16 @@
 ### 5.4 More Maps, Bubble Chart and Boxplot with Plotly
 ## 6. Statistics
 ## 7. Econometrics
+### 7.1 Linear Regression
+### 7.2 Multivariate Regression Model
+### 7.3 Endogeneity
+#### 7.3.1 Two-stage least squares (2SLS) regression
+##### 7.3.1.1 First Stage
+##### 7.3.1.2 Second Stage
+#### 7.3.2 Hausman Test
+### 7.4 The OLS parameter 𝛽 estimated using matrix algebra and numpy
+### 7.5 Regression Discontinuity Design (RDD)
+### 7.6 Difference-in-Difference
 ## 8. Spatial Econometrics
 ## 9. Machine Learning
 
