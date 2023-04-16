@@ -68,9 +68,10 @@
 ### 7.6 Difference-in-Difference (Dif-in-Dif)
 ### 7.7 More OLS 
 #### 7.7.1 Robust Linear Regression
-### 7.8 Binary Regression Logit and Probit 
-
+### 7.8 Logit Regression
+### 7.9 Quantile Regression
 ## 8. Spatial Econometrics
+
 ## 9. Machine Learning
 
 
