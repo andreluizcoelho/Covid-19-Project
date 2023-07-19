@@ -1,5 +1,19 @@
 ### This repository contains a project that I completed as part of my Ph.D. in Economics coursework at [PIMES/UFPE](https://sites.google.com/view/pimes/principal) in Recife, Brazil. The project was submitted at the end of July 2021 and is quite lengthy. Therefore, on April 5th, 2023, I have decided to break it down into smaller parts. [This](https://github.com/andreluizcoelho/Covid-19-Project/blob/main/covid19project_andreluizcoelho.ipynb) is the first original final project. The project is a descriptive analysis which uses Covid data and many Economic data. It begins with webscraping and it ends with machine learning application, besides including many data visualizations after several merges between the data.  
 
+## Data Science Covid-19 Project Overview 
+
+* In this Data Science Covid-19 Project, I conducted a comprehensive analysis of the pandemic's impact on various countries using a wide range of data sources and statistical methods. The project can be outlined as follows:
+* Collected Covid-19 data from world meters using Python's web scraping techniques. Additionally, acquired vaccine data to correlate with Covid-19 cases and death rates.
+* Merged the Covid-19 data and vaccine data with country indicators such as the Human Development Index, Gross Domestic Product (GDP), GDP per capita, unemployment rate, inflation rate, and annual GDP growth.
+* To provide a comprehensive visual representation, I created various graphs such as scatter plots, bar graphs, pie charts, tree maps, trendlines, as well as world maps with shapefiles using latitude and longitude data. I utilized libraries such as Plotly, Matplotlib, Geopandas, and others to enhance the visual aspect of the analysis.
+* Statistical tests were employed to assess the significance between different variables.
+* For the econometric analysis, I utilized a diverse set of models including linear regression, multivariate regression, tested for endogeneity, two-stage least squares, Hausman test, OLS (Ordinary Least Squares), Regression Discontinuity Design (RDD), and Difference-in-Difference (Dif-in-Dif). I also employed Logit regression and quantile regression to explore correlations and causal relationships between variables such as GDP per capita and Covid-19 cases or fatalities, and the potential impact of unemployment rates on the number of Covid-19 cases. Many other variables were also tested.
+* Spatial Econometrics was used to analyze spatial autocorrelation, both global and local, to understand how Covid-19 cases and fatalities might affect neighboring countries.
+* Machine learning techniques, including Support Vector Classifier (SVC), Logistic Regression, Decision Trees, and Random Forests, were applied for prediction purposes. For instance, I predicted Covid-19 mortality rates based on whether a country falls into the high income group, upper middle income group, lower middle income group, or lower income group.
+* The project is divided into separate sections, each focusing on specific analyses and methodologies. I have made the data and relevant links available for download or web scraping for further exploration.
+* By conducting this comprehensive analysis, we aimed to gain valuable insights into the correlations and impacts of various factors related to Covid-19, contributing to a deeper understanding of the pandemic's effects on different countries and populations.
+
+
 ## 1. Webscraping 
 #### The Covid-19 data is initially webscraped with information such as Total Cases and Death Cases from [World Meters](https://www.worldometers.info/coronavirus/). 
 
@@ -12,10 +26,10 @@
 #### The [downloaded](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) newest HDI is from 2021. On the [first](https://github.com/andreluizcoelho/Covid-19-Project/blob/main/covid19project_andreluizcoelho.ipynb) original final project the newest HDI was from 2019. So, some details in the code had to change.
 #### The [ISO](https://www.iso.org/standards.html) from each country is generated in this section
 ### 3.2 World Bank Data
-#### 3.2.1 Growth Domestic Product (GDP) per capita
+#### 3.2.1 Gross Domestic Product (GDP) per capita
 #### The GDP per capita data can be downloaded [here](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD), and for direct [download](https://api.worldbank.org/v2/en/indicator/NY.GDP.PCAP.CD?downloadformat=excel)
 #### GDP per capita is also for 2021, where in the original final project it was from 2019. 
-#### 3.2.2 Growth Domestic Product (GDP) 
+#### 3.2.2 Gross Domestic Product (GDP) 
 #### The GPD data can be downloaded [here](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD), and for direct [download](https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=excel)
 #### GDP is also for 2021, where in the original final project it was from 2019 
 #### 3.2.3 Unemployment Rate 
