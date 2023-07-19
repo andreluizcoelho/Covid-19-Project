@@ -2,7 +2,7 @@
 
 ## Data Science Covid-19 Project Overview 
 
-* In this Data Science Covid-19 Project, I conducted a comprehensive analysis of the pandemic's impact on various countries using a wide range of data sources and statistical methods. The project can be outlined as follows:
+### In this Data Science Covid-19 Project, I conducted a comprehensive analysis of the pandemic's impact on various countries using a wide range of data sources and statistical methods. The project can be outlined as follows:
 * Collected Covid-19 data from world meters using Python's web scraping techniques. Additionally, acquired vaccine data to correlate with Covid-19 cases and death rates.
 * Merged the Covid-19 data and vaccine data with country indicators such as the Human Development Index, Gross Domestic Product (GDP), GDP per capita, unemployment rate, inflation rate, and annual GDP growth.
 * To provide a comprehensive visual representation, I created various graphs such as scatter plots, bar graphs, pie charts, tree maps, trendlines, as well as world maps with shapefiles using latitude and longitude data. I utilized libraries such as Plotly, Matplotlib, Geopandas, and others to enhance the visual aspect of the analysis.
